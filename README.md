@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;Technical+Mentor+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Problem+Solver+%F0%9F%A7%A9;Data+Science+Enthusiast+%F0%9F%93%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Data+Science+Enthusiast+%F0%9F%93%8A)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@ class JaganathanJ:
     def __init__(self):
         self.name = "Jaganathan J"
         self.role = "Computer Science Engineer"
-        self.education = "B.Tech CSE @ SRM Easwari (CGPA: 8.89/10)"
+        self.education = "B.E. CSE @ SRM Easwari (CGPA: 8.89/10)"
         self.status = "Final Year Student | Graduating June 2026"
         
     def current_focus(self):
