@@ -52,6 +52,13 @@ This profile serves as a collection of projects, research work, engineering expe
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio" />
 </p>
 
+
+### Frameworks & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,react,nextjs,fastapi" />
+</p>
+
 ---
 
 ## Contribution Summary
@@ -62,43 +69,46 @@ This profile serves as a collection of projects, research work, engineering expe
 
 ## Featured Work
 
-### Distributed Loan Management Platform
+### [LoanCore360 – Distributed Core Banking Platform](https://github.com/J-Jaganathan/LoanCore360)
 
-Led backend architecture development for a distributed loan-management platform designed around microservices and event-driven system principles.
+Microservices-based loan management platform designed to model the complete lifecycle of retail and corporate lending, including application processing, credit appraisal, loan disbursement, repayment servicing, delinquency tracking, NPA management, analytics, and role-based operational workflows.
 
 **Focus Areas**
 
+* Distributed Systems
+* Spring Boot Microservices
+* Service Discovery & API Gateway
 * Backend Architecture
-* Event-Driven Systems
-* Loan Servicing Workflows
 * Transaction Processing
-* Microservices
+* Security & RBAC
 
 ---
 
-### Real-Time Communication System
+### [Interview Management Platform](https://github.com/J-Jaganathan/InterviewApp)
 
-Socket-based communication platform built using Java networking technologies.
+Full-stack interview workflow platform built with a Next.js frontend and Python backend, enabling candidate management, interview scheduling, question management, authentication, and dynamic data-driven interfaces through REST APIs.
 
 **Focus Areas**
 
-* Networking
-* Client-Server Communication
-* Distributed Messaging
-* Java Sockets
+* Full-Stack Development
+* REST API Design
+* Python Backend Development
+* Database-Driven Applications
+* Authentication & Authorization
 
 ---
 
-### Grocery Helper
+### [NOTELY – Voice-Driven Android Application](https://github.com/J-Jaganathan/Notely)
 
-Collaborative web application built using Firebase and modern web technologies.
+Android application that converts spoken input into persistent notes using native speech recognition services, local storage mechanisms, and voice-first productivity workflows.
 
 **Focus Areas**
 
-* Cloud Applications
-* Realtime Databases
-* Frontend Engineering
-* Application Design
+* Android Development
+* Speech Recognition
+* Mobile Application Engineering
+* Local Data Persistence
+* User Experience Design
 
 ---
 
@@ -125,6 +135,21 @@ Open Source Software
 | MongoDB                        | Student Developer Certification |
 | Final Year Engineering Project | Re-engineered Microsoft's RetNet architecture from sequence modeling to numerical vital-sign prediction and integrated it with VANET-based emergency communication and SUMO traffic simulations |
 | IIT Madras Shaastra            | Hackathon Finalist |
+
+---
+## Technical Content
+
+I occasionally create technical walkthroughs covering cloud infrastructure, distributed systems, and development tooling.
+
+Topics covered include:
+
+- AWS Billing & Cost Management
+- AWS Lambda & CloudWatch
+- Hadoop Installation & Configuration
+- Hadoop MapReduce Workflows
+- Docker & Nginx Deployment
+
+Technical videos available on YouTube.
 
 ---
 
