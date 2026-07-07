@@ -12,7 +12,9 @@
 
 ## About
 
-Software engineer with interests spanning software architecture, backend systems, distributed computing, data-intensive applications, and intelligent technologies.
+Software Engineer (Programmer Analyst Trainee at Cognizant) with a focus on backend systems, distributed architecture, and data engineering. During internship training, I worked on **LoanCore360**, a microservices-based Core Banking Loan Management System, contributing to backend service design and integration across the team's implementation.
+
+My data engineering interests are grounded in the Databricks Lakehouse ecosystem, following the **Databricks Certified Data Engineer Associate** certification, covering PySpark, Spark SQL, Unity Catalog, Delta Tables, Lakeflow Declarative Pipelines, and Medallion Architecture.
 
 This profile serves as a collection of projects, research work, engineering experiments, and technical explorations across different areas of computing.
 
@@ -26,17 +28,33 @@ This profile serves as a collection of projects, research work, engineering expe
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript" />
 </p>
 
+### Data Engineering & Lakehouse
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logo=delta&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache_Hadoop-FFCC00?style=flat-square&logo=apachehadoop&logoColor=black"/>
+
+</p>
+
 ### Platforms & Infrastructure
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Hadoop-FFCC00?style=flat-square&logo=apachehadoop&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
 
 </p>
 
@@ -132,9 +150,20 @@ Open Source Software
 
 | Achievement                    | Details |
 |--------------------------------|---------|
-| MongoDB                        | Student Developer Certification |
-| Final Year Engineering Project | Re-engineered Microsoft's RetNet architecture from sequence modeling to numerical vital-sign prediction and integrated it with VANET-based emergency communication and SUMO traffic simulations |
-| IIT Madras Shaastra            | Hackathon Finalist |
+| Final Year Project / Published Research | RetCareNet: Real-Time Precision Healthcare through IoT-VANET Integration and RetNet-based Analytics: re-engineered Microsoft's RetNet architecture from sequence modeling to numerical vital-sign prediction, integrated with VANET-based emergency communication and SUMO traffic simulations |
+| IIT Madras Shaastra             | Hackathon Finalist |
+| Pitch Perfect Competition       | Winner |
+
+---
+
+## Certifications
+
+| Certification                              | Details |
+|---------------------------------------------|---------|
+| Databricks Certified Data Engineer Associate | Databricks Lakehouse Platform |
+| NPTEL Cloud Computing                        | Gold |
+| NPTEL Industry 4.0 & IIoT                    | Silver |
+| MongoDB Certified Student Developer          | MongoDB |
 
 ---
 ## Technical Content
